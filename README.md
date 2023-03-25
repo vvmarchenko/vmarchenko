@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile!:wave:
+# Welcome to my GitHub profile!:wave: :coffee:
 
 I'm an IT Engineer addicted to DevOps, and I'm always looking for new ways to automate and streamline my workflows. This GitHub account is where I share my projects and code, and I'm always happy to collaborate with others.
 
